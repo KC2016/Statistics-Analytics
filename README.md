@@ -1,4 +1,4 @@
-Power Analysis and A/B testing
+# Power Analysis and A/B testing
 
 ## Statistical test
 Compare the means of samples to find the Power (P-value). >> The probability we correctly reject the Null Hypothesis.
@@ -33,6 +33,7 @@ When we add new observations to recalculate the means and redo the statistical t
 ### Power Analysis
 To determine the sample size to do the experiment next time, in order to ensure a high probability that we correctly reject the null hypothesis >> there is no difference between the two groups.
 
+Reference: [Statquest](https://www.youtube.com/watch?v=VX_M3tIyiYk)
 ___________
 
 Power Statistic: estimation of an appropriate sample size
@@ -82,11 +83,21 @@ SIGNIFICANT
 - Reletionship between variables
 > Effect size: difference of biological interest and variabilidade (std deviation)
 
-- power of the experiment (80%)
-> significance level (5%, being 5% from one-sized test and 2x2.5% for two-sized test)
+> power of the experiment (80%)
+
+> significance level (5% or a = 0.05, being 5% from one-sized test and 2x2.5% for two-sized test)
 
 > sample size
 -> alternative hypothesis (one or two-sized test)
 
 - The larger the effect size, the smaller the experiment will need to be to detect it.
 - The larger the effect size, the smaller the experiment will need to be to detect it.
+Cronology
+
+<p align="center">
+<img src = "images/03.png">  <br/>
+<p>
+[Source](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/parametric-and-non-parametric-data/)
+
+
+How to decide the type of test without checking the distribution?
