@@ -11,6 +11,10 @@ Overlap is affected by the distance between population means and theis standard 
 
     -  how to calculate it, example: Effect Size (d) = estimated difference in the means / the pooled estimated standard deviation
 
+    <p align="center">
+<img src = "images/04.png">  <br/>
+<p>
+
 2- The sample size: the number of measurements we collect from each group. The larger the sample size, the higher the power.
 
 Even when the distributions overlap, if the Sample Size is large, we can have high Power.
@@ -92,6 +96,7 @@ SIGNIFICANT
 
 - The larger the effect size, the smaller the experiment will need to be to detect it.
 - The larger the effect size, the smaller the experiment will need to be to detect it.
+
 Cronology
 
 <p align="center">
