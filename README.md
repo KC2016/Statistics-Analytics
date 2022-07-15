@@ -89,3 +89,4 @@ SIGNIFICANT
 -> alternative hypothesis (one or two-sized test)
 
 - The larger the effect size, the smaller the experiment will need to be to detect it.
+- The larger the effect size, the smaller the experiment will need to be to detect it.
