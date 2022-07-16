@@ -99,6 +99,19 @@ SIGNIFICANT
 
 Cronology
 
+1- Hypothesis creation
+
+2- Experimental design/choice of a Statistical test
+
+3- Power Analysis: Sample size
+
+4- Experiment(s)
+
+5- Data exploration
+
+6- Statistical Analysis of the results
+
+
 <p align="center">
 <img src = "images/03.png">  <br/>
 <p>
