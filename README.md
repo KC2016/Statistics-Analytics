@@ -9,9 +9,11 @@ Compare the means of samples to find the Power (P-value). >> The probability we 
 1- How much overlap there is between the two distributions.
 Overlap is affected by the distance between population means and theis standard deviations.
 
-    -  how to calculate it, example: Effect Size (d) = estimated difference in the means / the pooled estimated standard deviation
+How to calculate it, example:
 
-    <p align="center">
+    Effect Size(d) = estimated difference in the means / the pooled estimated standard deviation
+
+<p align="center">
 <img src = "images/04.png">  <br/>
 <p>
 
@@ -28,7 +30,7 @@ We should choose a number of samples (sample size) and compare their means with 
 > alpha a: threshold for significance, between 0 and 1. The commun value is 0.05.
 
 ### Central limit Theorem
-<span style="color:red"> [TODO] check</span>
+<span style="color:red"> [TODO] check central limit theorem</span>
 
 
 ### P-hacking
@@ -62,7 +64,7 @@ With 0.8MDE, given sample size and sample variance, we can calculate the smalles
 
 > p-value < 0.05: there is a difference (reject H0)
 
-SIGNIFICANT
+SIGNIFICANCE
 
 > p-value > 0.05: there is no diference (fail to reject H0) NOT SIGNIFICANT
 
@@ -99,18 +101,19 @@ SIGNIFICANT
 
 Cronology
 
-1- Hypothesis creation
+    1- Hypothesis creation
 
-2- Experimental design/choice of a Statistical test
+    2- Experimental design/choice of a Statistical test
 
-3- Power Analysis: Sample size
+    3- Power Analysis: Sample size
 
-4- Experiment(s)
+    4- Experiment(s)
 
-5- Data exploration
+    5- Data exploration
 
-6- Statistical Analysis of the results
+    6- Statistical Analysis of the results
 
+How to decide the type of test without checking the distribution?
 
 <p align="center">
 <img src = "images/03.png">  <br/>
@@ -118,4 +121,3 @@ Cronology
 [Source](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/parametric-and-non-parametric-data/)
 
 
-How to decide the type of test without checking the distribution?
