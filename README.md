@@ -100,3 +100,5 @@ Cronology
 <img title="03" alt="Alt text" src="images/03.png">
 
 > [Source](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)
+
+ [PowerCalculator](https://bookingcom.github.io/powercalculator/)
