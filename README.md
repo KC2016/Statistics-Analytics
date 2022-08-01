@@ -1,19 +1,27 @@
-# a_b_testing
-Sandbox for SoundCloud
 
+## AB Testing Process¶
+1. **Hypothesis creation:** Understanding business problem & data
 
-Power Statistic: estimation of an appropriate sample size
-- Sample distribution
+2. **Preliminar preparation of the dataset**
+    - Detect and resolve problems in the data (Missing Values, Outliers, Unexpected Values)
 
-- alfa: probability of type I error(0.05) , confidence level of 95%
+3. **Experimental design/choice of a Statistical test:**
+    - Look summary stats and plots
+    - Check Normality & Homogeneity
 
-- p-value: probability that the observed statistic occurred by chance alone. We reject the null hypothesis if p-value is very low. The conventional threshold for rejecting the null hypothesis is 5%.
+4. Make **Power analysis** to define the **sample size**
+    - Find p-value and alpha value
+    - Apply tests (Shapiro, Levene Test, T-Test, Welch Test, Mann Whitney U Test)
+    - Evaluate the results
 
-- power:  probability that an experiment will flag a real change as statistically significant. The convention is to require 80% power. Power depends on magnitude of the change, and variance among samples.
+5. **Do the experiment**
+    - Apply hypothesis testing and check assumptions
 
-- true-effect: the actual difference of mean between the buckets that would have been observed if we had infinitely large sample sizes. It’s a fixed but unknown parameter, which we are trying to infer.
+6. **Data exploration**
+    - Make inferences
 
-- False positives — the 5% chance of getting a measurement under the null hypothesis that is so far from the mean that we call it statistically significant. 
+7. **Statistical Analysis of the results**
+    - Recommend business decision to your customer/director/ceo etc.
 
 - Power: 80% of time we call statistical significance under the alternative. 
 
