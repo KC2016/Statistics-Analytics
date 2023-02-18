@@ -59,7 +59,7 @@ With 0.8MDE, given sample size and sample variance, we can calculate the smalles
 - The larger the effect size, the smaller the experiment will need to be to detect it.
 
 
-Cronology
+## Cronology
 
 1- Hypothesis
 
