@@ -14,7 +14,6 @@
 Tools:
 - Python / Jupyter Notebook
 - Excel
-- Power BI / Tableau
 
 
 
