@@ -5,6 +5,8 @@
 
 Excel 365
 
+---
+
 ### Power Query:
 *A data transformation and data preparation engine. Built-in to Excell for Windows from 2016 onwards.
 Available as na add on in Excel 2010 and Excel 2013.*
@@ -12,6 +14,8 @@ Available as na add on in Excel 2010 and Excel 2013.*
 > At Get & transform section
 
 Home > Format as table
+
+---
 
 ### Quizz1
 **Question 1:
@@ -39,9 +43,12 @@ After creating a new Table via Power Query, what would happen when the original 
 
 <span style="color:red">A: nothing</span>
 
+---
 
-Does Power Query affect original data?
-Making any changes in Query Editor won't affect the source data stored in excel sheet. If you update the source data in excel sheet, you should click the refresh button manually so that the dataset loaded to desktop will be updated correspondingly. ([source](https://community.powerbi.com/t5/Desktop/What-happens-to-the-original-data-that-I-edit-in-the-Power-BI/m-p/395432#:~:text=Making%20any%20changes%20in%20Query,desktop%20will%20be%20updated%20correspondingly.))
+*Does Power Query affect original data?
+Making any changes in Query Editor won't affect the source data stored in excel sheet. If you update the source data in excel sheet, you should click the refresh button manually so that the dataset loaded to desktop will be updated correspondingly.* ([source](https://community.powerbi.com/t5/Desktop/What-happens-to-the-original-data-that-I-edit-in-the-Power-BI/m-p/395432#:~:text=Making%20any%20changes%20in%20Query,desktop%20will%20be%20updated%20correspondingly.))
+
+---
 
 ### Training Schedule
 It is kept in a master workbook, external to our system, which we can access but can't change.
@@ -66,10 +73,11 @@ You cannot edit or format a cell in Power Query whereas you can in Excel.</span>
 <span style="color:red">Power Query does not work at the cell level, whereas you can in Excel.</span>
 
 **Question 3:
-Alex was working in Power Query and loaded the data into a new worksheet. He notices that he has made an error and needs to undo one of his steps. What should he do?
+Alex was working in Power Query and loaded the data into a new worksheet. He notices that he has made an error and needs to undo one of his steps. What should he do?**
 
 <span style="color:red">A: Go to Queries & Connections, choose the relevant query, click on Edit, go to Query Settings, and delete the relevant Applied Step</span>
 
+---
 
 ### Opening datasets from
 
@@ -98,3 +106,5 @@ There are currently three columns in Power Query: Street Address, City, State, w
 If you created a table in Excel after getting data from a database, changing the data in the new table will update the original database if you click Refresh.**
 
 <span style="color:red">A: False</span>
+
+---
