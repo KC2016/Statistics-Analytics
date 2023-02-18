@@ -1,5 +1,5 @@
 # Statistics and BI
-### Learning Statistics for Data Science and Analytics [IN PROGRESS]
+### Practicing Statistics for Data Science and Analytics [IN PROGRESS]
 - A/B testing
 - Power Analysis
 - [Excel Power Tools for Data Analysis](https://www.coursera.org/learn/excel-power-tools)
